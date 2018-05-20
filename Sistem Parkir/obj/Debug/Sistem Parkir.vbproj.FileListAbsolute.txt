@@ -1,0 +1,14 @@
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.exe.config
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.exe
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.pdb
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\Sistem Parkir.xml
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.Resources.resources
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.vbproj.GenerateResource.Cache
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.exe
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.xml
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem Parkir.pdb
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.PintuMasukForm.resources
+E:\Kuliah\Semester 4\Praktek Pemrograman Objek 1 (.Net)\Tubes\Sistem Parkir\Sistem Parkir\obj\Debug\Sistem_Parkir.PintuKeluarForm.resources
